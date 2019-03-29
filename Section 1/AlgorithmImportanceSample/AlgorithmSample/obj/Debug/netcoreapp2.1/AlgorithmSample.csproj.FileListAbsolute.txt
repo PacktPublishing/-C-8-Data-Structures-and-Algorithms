@@ -1,0 +1,11 @@
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\bin\Debug\netcoreapp2.1\AlgorithmSample.deps.json
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\bin\Debug\netcoreapp2.1\AlgorithmSample.runtimeconfig.json
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\bin\Debug\netcoreapp2.1\AlgorithmSample.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\bin\Debug\netcoreapp2.1\AlgorithmSample.dll
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\bin\Debug\netcoreapp2.1\AlgorithmSample.pdb
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\obj\Debug\netcoreapp2.1\AlgorithmSample.csprojAssemblyReference.cache
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\obj\Debug\netcoreapp2.1\AlgorithmSample.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\obj\Debug\netcoreapp2.1\AlgorithmSample.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\obj\Debug\netcoreapp2.1\AlgorithmSample.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\obj\Debug\netcoreapp2.1\AlgorithmSample.dll
+C:\Projects\Author\Code\Section 1\AlgorithmImportanceSample\AlgorithmSample\obj\Debug\netcoreapp2.1\AlgorithmSample.pdb

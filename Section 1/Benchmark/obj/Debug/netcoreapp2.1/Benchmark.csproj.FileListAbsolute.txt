@@ -1,0 +1,11 @@
+C:\Projects\Author\Code\Section 1\Benchmark\bin\Debug\netcoreapp2.1\Benchmark.deps.json
+C:\Projects\Author\Code\Section 1\Benchmark\bin\Debug\netcoreapp2.1\Benchmark.runtimeconfig.json
+C:\Projects\Author\Code\Section 1\Benchmark\bin\Debug\netcoreapp2.1\Benchmark.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 1\Benchmark\bin\Debug\netcoreapp2.1\Benchmark.dll
+C:\Projects\Author\Code\Section 1\Benchmark\bin\Debug\netcoreapp2.1\Benchmark.pdb
+C:\Projects\Author\Code\Section 1\Benchmark\obj\Debug\netcoreapp2.1\Benchmark.csprojAssemblyReference.cache
+C:\Projects\Author\Code\Section 1\Benchmark\obj\Debug\netcoreapp2.1\Benchmark.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 1\Benchmark\obj\Debug\netcoreapp2.1\Benchmark.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 1\Benchmark\obj\Debug\netcoreapp2.1\Benchmark.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 1\Benchmark\obj\Debug\netcoreapp2.1\Benchmark.dll
+C:\Projects\Author\Code\Section 1\Benchmark\obj\Debug\netcoreapp2.1\Benchmark.pdb
