@@ -1,0 +1,11 @@
+C:\Projects\Author\Code\Section 4\HashCollections\bin\Debug\netcoreapp2.2\HashCollections.deps.json
+C:\Projects\Author\Code\Section 4\HashCollections\bin\Debug\netcoreapp2.2\HashCollections.runtimeconfig.json
+C:\Projects\Author\Code\Section 4\HashCollections\bin\Debug\netcoreapp2.2\HashCollections.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 4\HashCollections\bin\Debug\netcoreapp2.2\HashCollections.dll
+C:\Projects\Author\Code\Section 4\HashCollections\bin\Debug\netcoreapp2.2\HashCollections.pdb
+C:\Projects\Author\Code\Section 4\HashCollections\obj\Debug\netcoreapp2.2\HashCollections.csprojAssemblyReference.cache
+C:\Projects\Author\Code\Section 4\HashCollections\obj\Debug\netcoreapp2.2\HashCollections.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 4\HashCollections\obj\Debug\netcoreapp2.2\HashCollections.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 4\HashCollections\obj\Debug\netcoreapp2.2\HashCollections.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 4\HashCollections\obj\Debug\netcoreapp2.2\HashCollections.dll
+C:\Projects\Author\Code\Section 4\HashCollections\obj\Debug\netcoreapp2.2\HashCollections.pdb

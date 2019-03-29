@@ -1,0 +1,11 @@
+C:\Projects\Author\Code\Section 4\Hashtable\bin\Debug\netcoreapp2.2\Hashtable.deps.json
+C:\Projects\Author\Code\Section 4\Hashtable\bin\Debug\netcoreapp2.2\Hashtable.runtimeconfig.json
+C:\Projects\Author\Code\Section 4\Hashtable\bin\Debug\netcoreapp2.2\Hashtable.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 4\Hashtable\bin\Debug\netcoreapp2.2\Hashtable.dll
+C:\Projects\Author\Code\Section 4\Hashtable\bin\Debug\netcoreapp2.2\Hashtable.pdb
+C:\Projects\Author\Code\Section 4\Hashtable\obj\Debug\netcoreapp2.2\Hashtable.csprojAssemblyReference.cache
+C:\Projects\Author\Code\Section 4\Hashtable\obj\Debug\netcoreapp2.2\Hashtable.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 4\Hashtable\obj\Debug\netcoreapp2.2\Hashtable.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 4\Hashtable\obj\Debug\netcoreapp2.2\Hashtable.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 4\Hashtable\obj\Debug\netcoreapp2.2\Hashtable.dll
+C:\Projects\Author\Code\Section 4\Hashtable\obj\Debug\netcoreapp2.2\Hashtable.pdb
