@@ -1,0 +1,11 @@
+C:\Projects\Author\Code\Section 2\Searching\bin\Debug\netcoreapp2.2\Searching.deps.json
+C:\Projects\Author\Code\Section 2\Searching\bin\Debug\netcoreapp2.2\Searching.runtimeconfig.json
+C:\Projects\Author\Code\Section 2\Searching\bin\Debug\netcoreapp2.2\Searching.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 2\Searching\bin\Debug\netcoreapp2.2\Searching.dll
+C:\Projects\Author\Code\Section 2\Searching\bin\Debug\netcoreapp2.2\Searching.pdb
+C:\Projects\Author\Code\Section 2\Searching\obj\Debug\netcoreapp2.2\Searching.csprojAssemblyReference.cache
+C:\Projects\Author\Code\Section 2\Searching\obj\Debug\netcoreapp2.2\Searching.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 2\Searching\obj\Debug\netcoreapp2.2\Searching.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 2\Searching\obj\Debug\netcoreapp2.2\Searching.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 2\Searching\obj\Debug\netcoreapp2.2\Searching.dll
+C:\Projects\Author\Code\Section 2\Searching\obj\Debug\netcoreapp2.2\Searching.pdb

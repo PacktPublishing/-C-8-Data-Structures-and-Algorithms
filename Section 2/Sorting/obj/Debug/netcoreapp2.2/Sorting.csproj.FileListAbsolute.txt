@@ -1,0 +1,11 @@
+C:\Projects\Author\Code\Section 2\Sorting\bin\Debug\netcoreapp2.2\Sorting.deps.json
+C:\Projects\Author\Code\Section 2\Sorting\bin\Debug\netcoreapp2.2\Sorting.runtimeconfig.json
+C:\Projects\Author\Code\Section 2\Sorting\bin\Debug\netcoreapp2.2\Sorting.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 2\Sorting\bin\Debug\netcoreapp2.2\Sorting.dll
+C:\Projects\Author\Code\Section 2\Sorting\bin\Debug\netcoreapp2.2\Sorting.pdb
+C:\Projects\Author\Code\Section 2\Sorting\obj\Debug\netcoreapp2.2\Sorting.csprojAssemblyReference.cache
+C:\Projects\Author\Code\Section 2\Sorting\obj\Debug\netcoreapp2.2\Sorting.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 2\Sorting\obj\Debug\netcoreapp2.2\Sorting.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 2\Sorting\obj\Debug\netcoreapp2.2\Sorting.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 2\Sorting\obj\Debug\netcoreapp2.2\Sorting.dll
+C:\Projects\Author\Code\Section 2\Sorting\obj\Debug\netcoreapp2.2\Sorting.pdb
