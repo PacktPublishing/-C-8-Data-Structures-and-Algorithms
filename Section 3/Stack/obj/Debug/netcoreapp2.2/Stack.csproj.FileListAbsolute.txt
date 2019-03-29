@@ -1,0 +1,10 @@
+C:\Projects\Author\Code\Section 3\Stack\bin\Debug\netcoreapp2.2\Stack.deps.json
+C:\Projects\Author\Code\Section 3\Stack\bin\Debug\netcoreapp2.2\Stack.runtimeconfig.json
+C:\Projects\Author\Code\Section 3\Stack\bin\Debug\netcoreapp2.2\Stack.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 3\Stack\bin\Debug\netcoreapp2.2\Stack.dll
+C:\Projects\Author\Code\Section 3\Stack\bin\Debug\netcoreapp2.2\Stack.pdb
+C:\Projects\Author\Code\Section 3\Stack\obj\Debug\netcoreapp2.2\Stack.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 3\Stack\obj\Debug\netcoreapp2.2\Stack.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 3\Stack\obj\Debug\netcoreapp2.2\Stack.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 3\Stack\obj\Debug\netcoreapp2.2\Stack.dll
+C:\Projects\Author\Code\Section 3\Stack\obj\Debug\netcoreapp2.2\Stack.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Author\Code\Section 3\MovingPointer\bin\Debug\netcoreapp2.2\MovingPointer.deps.json
+C:\Projects\Author\Code\Section 3\MovingPointer\bin\Debug\netcoreapp2.2\MovingPointer.runtimeconfig.json
+C:\Projects\Author\Code\Section 3\MovingPointer\bin\Debug\netcoreapp2.2\MovingPointer.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 3\MovingPointer\bin\Debug\netcoreapp2.2\MovingPointer.dll
+C:\Projects\Author\Code\Section 3\MovingPointer\bin\Debug\netcoreapp2.2\MovingPointer.pdb
+C:\Projects\Author\Code\Section 3\MovingPointer\obj\Debug\netcoreapp2.2\MovingPointer.csprojAssemblyReference.cache
+C:\Projects\Author\Code\Section 3\MovingPointer\obj\Debug\netcoreapp2.2\MovingPointer.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 3\MovingPointer\obj\Debug\netcoreapp2.2\MovingPointer.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 3\MovingPointer\obj\Debug\netcoreapp2.2\MovingPointer.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 3\MovingPointer\obj\Debug\netcoreapp2.2\MovingPointer.dll
+C:\Projects\Author\Code\Section 3\MovingPointer\obj\Debug\netcoreapp2.2\MovingPointer.pdb

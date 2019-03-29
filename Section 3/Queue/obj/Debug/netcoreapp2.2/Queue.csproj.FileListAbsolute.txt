@@ -1,0 +1,11 @@
+C:\Projects\Author\Code\Section 3\Queue\bin\Debug\netcoreapp2.2\Queue.deps.json
+C:\Projects\Author\Code\Section 3\Queue\bin\Debug\netcoreapp2.2\Queue.runtimeconfig.json
+C:\Projects\Author\Code\Section 3\Queue\bin\Debug\netcoreapp2.2\Queue.runtimeconfig.dev.json
+C:\Projects\Author\Code\Section 3\Queue\bin\Debug\netcoreapp2.2\Queue.dll
+C:\Projects\Author\Code\Section 3\Queue\bin\Debug\netcoreapp2.2\Queue.pdb
+C:\Projects\Author\Code\Section 3\Queue\obj\Debug\netcoreapp2.2\Queue.csprojAssemblyReference.cache
+C:\Projects\Author\Code\Section 3\Queue\obj\Debug\netcoreapp2.2\Queue.csproj.CoreCompileInputs.cache
+C:\Projects\Author\Code\Section 3\Queue\obj\Debug\netcoreapp2.2\Queue.AssemblyInfoInputs.cache
+C:\Projects\Author\Code\Section 3\Queue\obj\Debug\netcoreapp2.2\Queue.AssemblyInfo.cs
+C:\Projects\Author\Code\Section 3\Queue\obj\Debug\netcoreapp2.2\Queue.dll
+C:\Projects\Author\Code\Section 3\Queue\obj\Debug\netcoreapp2.2\Queue.pdb
